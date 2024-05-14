@@ -1,0 +1,8 @@
+.originalDiv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: cornflowerblue;
+    border-style: solid;
+    margin: 20px;
+}
